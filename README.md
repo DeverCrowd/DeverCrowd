@@ -46,7 +46,7 @@ Want to collaborate, ask a question, or hire us?
 - [🎥 TikTok](https://www.tiktok.com/@devercrowd.com)  
 - [💼 LinkedIn](https://www.linkedin.com/company/devercrowd/)  
 - [📷 Instagram](https://www.instagram.com/devercrowd/)
-- 
+- [📷 Facebook](https://www.facebook.com/profile.php?id=61577937253222)
 ---
 
 Made with 💙 by the Dever Crowd team.
