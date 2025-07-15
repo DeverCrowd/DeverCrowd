@@ -5,7 +5,6 @@
 We are a team of passionate developers, designers, and tech professionals providing high-quality digital solutions in:
 
 - 🌐 **Web Development**
-- 📱 **Mobile App Development**
 - 🎨 **UI/UX Design**
 - 🛡️ **Cybersecurity & Penetration Testing**
 - 🤝 **Ongoing Technical Support**
@@ -30,7 +29,6 @@ To become a trusted tech partner that empowers businesses to grow through innova
 | Service        | Description                                     |
 |----------------|-------------------------------------------------|
 | Web Dev        | Full-stack websites, dashboards & platforms     |
-| Mobile Apps    | Cross-platform apps with modern UI/UX           |
 | UI/UX Design   | Clean, user-centered design for any platform    |
 | Security       | Audits, testing, and secure system architecture |
 | Support        | Long-term maintenance & troubleshooting         |
