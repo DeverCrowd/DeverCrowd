@@ -43,9 +43,9 @@ Want to collaborate, ask a question, or hire us?
 📧 **Email:** contact@devercrowd.com *(or your email)*  
 🌍 **Website:** [devercrowd.com](https://devercrowd.com) *(if available)*  
 💬 **Socials:**  
-- [🎥 TikTok](https://www.tiktok.com/@your_username](https://www.tiktok.com/@devercrowd.com)
-- [💼 LinkedIn](https://www.linkedin.com/company/your-company-name](https://www.linkedin.com/company/devercrowd/)  
-- [💬 Facebook](https://discord.gg/your-discord-code](https://www.instagram.com/devercrowd/)
+- [🎥 TikTok]([https://www.tiktok.com/@your_username](https://www.tiktok.com/@devercrowd.com))
+- [💼 LinkedIn]([https://www.linkedin.com/company/your-company-name](https://www.linkedin.com/company/devercrowd/))  
+- [💬 Facebook]([https://discord.gg/your-discord-code](https://www.instagram.com/devercrowd/))
 
 ---
 
