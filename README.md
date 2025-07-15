@@ -40,8 +40,8 @@ To become a trusted tech partner that empowers businesses to grow through innova
 ### 📫 Let’s Connect!
 Want to collaborate, ask a question, or hire us?
 
-📧 **Email:** contact@devercrowd.com *(or your email)*  
-🌍 **Website:** [devercrowd.com](https://devercrowd.com) *(if available)*  
+📧 **Email:** devercrowd@gmail.com
+🌍 **Website:** [devercrowd.com](https://devercrowd.com)
 💬 **Socials:**  
 - [🎥 TikTok](https://www.tiktok.com/@devercrowd.com)  
 - [💼 LinkedIn](https://www.linkedin.com/company/devercrowd/)  
